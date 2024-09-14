@@ -30,7 +30,7 @@ The dataset includes various columns that provide detailed information about eac
 
   - **Category Insights :** What are the most and least popular product categories and sub-categories? How does the popularity of these categories vary by location and over time?
 
-- This analysis will provide a deeper understanding of supermarket sales dynamics, revealing trends and patterns that can inform inventory management, promotional strategies, and regional marketing efforts.
+- This analysis will provide a deeper understanding of supermarket sales dynamics revealing trends and patterns that can inform inventory management, promotional strategies and regional marketing efforts.
 
 ![download](https://github.com/user-attachments/assets/773fed67-4abd-4d51-82ab-584285cda961)
 
@@ -103,6 +103,135 @@ git clone https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis.git
 ```
 
 ## Steps involved in the Project
+
+- **Importing Libraries**
+
+  - Importing Pandas, Matplotlib and Seaborn Libraries
+ 
+- **Reading CSV File**
+
+  - Reading CSV File by using pd.read_csv() function
+ 
+- **Overview of the Dataset**
+
+  - Information about shape and size of the Dataset
+
+  - Columns present in the Dataset
+
+  - Info about the Dataset
+
+- **Handling Null values in the Dataset**
+
+  - This dataset does not contain any Null Values
+ 
+- **Unique values in Each Categorical Column**
+
+  - Unique values in Customer Name Column
+ 
+  - Unique values in Category Column
+ 
+  - Unique values in Sub Category Column
+ 
+  - Unique values in City Column
+ 
+  - Unique values in Region Column
+ 
+- **Changing DataType of Columns**
+
+  - Modifying the DataType of OrderDate column to Pandas DateTime Format
+
+- **Utilizing existing information to create new Columns**
+
+  - Extracting Year, Month and Dates from OrderDate Column
+ 
+  - Extracting Discount Amount from Discount Percent by using Mathematical Formulas
+ 
+- **Statistical Analysis**
+
+  - No. of Products sold in each Category
+    ```
+    # Count of products sold in each Category
+    df["Category"].value_counts()
+    ```
+    
+  - No. of Products sold in each Sub Category
+    ```
+    # Count of products sold in each Sub Category
+    df["Sub Category"].value_counts()
+    ```
+ 
+  - No. of Products sold in each City
+ 
+  - No. of Products sold in each Region
+ 
+  - No. of Products sold each Year, Month and Date
+ 
+  - Total sale in each Category
+ 
+  - Total sale in each Sub Category
+ 
+  - Total sale in each Region
+ 
+  - Total sale in each City
+ 
+  - Total sale in each Month
+ 
+  - Total sale in each Year
+ 
+  - Total profit in each Category
+ 
+  - Total profit in each Sub Category
+ 
+  - Total profit in each Region
+ 
+  - Total profit in each City
+ 
+  - Total profit in each Month
+ 
+  - Total profit in each Year
+ 
+  - Customer's with Highest Total Orders
+ 
+  - Most purchased product from each category by Customer's
+ 
+  - Most purchased product from each sub category by Customer's
+ 
+  - Most order placed from different cities by Customer's
+ 
+  - Most order placed from different regions by Customer's
+ 
+  - Most order placed in different months by Customer's
+ 
+  - Most order placed in different years by Customer's
+ 
+  - Total Discount on each Product Category
+ 
+  - Total Discount on each Sub Product Category
+ 
+  - Total Discount in each Region
+ 
+  - Total Discount in each City
+ 
+  - Total Discount in each Month
+ 
+  - Total Discount in each Year
+ 
+  - Customer's with most Discount
+ 
+  - Sale of Different Category Products Year Wise
+ 
+  - Sale of Different Category Products Month Wise
+ 
+  - Sale of Different Category Products Region Wise
+ 
+  - Profit from Different Category Products Year Wise
+ 
+  - Profit from Different Category Products Month Wise
+ 
+  - Profit from Different Category Products Region Wise
+ 
+  - Percent of Total Revenue spend on Discounts
+
 
 ## Conclusion
 
