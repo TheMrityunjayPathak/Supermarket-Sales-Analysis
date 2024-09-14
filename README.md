@@ -237,7 +237,7 @@ git clone https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis.git
 
 ## Link to the Notebook
 
-[Super Market Sales Analysis]()
+[Super Market Sales Analysis](https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis)
 
 | [Scroll to Top ⬆️](#super-market-sales-analysis) |
 |:---:|
