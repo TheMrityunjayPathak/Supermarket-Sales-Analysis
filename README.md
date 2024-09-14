@@ -32,7 +32,7 @@ The dataset includes various columns that provide detailed information about eac
 
 - This analysis will provide a deeper understanding of supermarket sales dynamics revealing trends and patterns that can inform inventory management, promotional strategies and regional marketing efforts.
 
-![download](https://github.com/user-attachments/assets/773fed67-4abd-4d51-82ab-584285cda961)
+![Supermarket](https://github.com/user-attachments/assets/25b4d12a-b1ec-4d33-b939-3dfb9bdfdeb4)
 
 ## Table of Contents
 
@@ -41,6 +41,7 @@ The dataset includes various columns that provide detailed information about eac
 - [Getting started with Repository](#getting-started)
 - [Steps involved in the Project](#steps-involved-in-the-project)
 - [Conclusion](#conclusion)
+- [Link to the Notebook](#link-to-the-notebook)
 
 ## Setting up the Enviroment
 
@@ -232,6 +233,10 @@ git clone https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis.git
   - Percent of Total Revenue spend on Discounts
 
 ## Conclusion
+
+## Link to the Notebook
+
+[Super Market Sales Analysis](https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis)
 
 | [Scroll to Top ⬆️](#super-market-sales-analysis) |
 |:---:|
