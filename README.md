@@ -232,12 +232,7 @@ git clone https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis.git
  
   - Percent of Total Revenue spend on Discounts
 
-
 ## Conclusion
-
-## Link to the Notebook
-
-[Super Market Sales Analysis](https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis)
 
 | [Scroll to Top ⬆️](#super-market-sales-analysis) |
 |:---:|
