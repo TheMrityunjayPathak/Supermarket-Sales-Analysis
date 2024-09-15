@@ -149,88 +149,14 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 - **Statistical Analysis**
 
   - No. of Products sold in each Category
-    ```
-    # Count of products sold in each Category
-    df["Category"].value_counts()
-    ```
     
   - No. of Products sold in each Sub Category
-    ```
-    # Count of products sold in each Sub Category
-    df["Sub Category"].value_counts()
-    ```
  
   - No. of Products sold in each City
  
   - No. of Products sold in each Region
  
-  - No. of Products sold each Year, Month and Date
- 
-  - Total sale in each Category
- 
-  - Total sale in each Sub Category
- 
-  - Total sale in each Region
- 
-  - Total sale in each City
- 
-  - Total sale in each Month
- 
-  - Total sale in each Year
- 
-  - Total profit in each Category
- 
-  - Total profit in each Sub Category
- 
-  - Total profit in each Region
- 
-  - Total profit in each City
- 
-  - Total profit in each Month
- 
-  - Total profit in each Year
- 
-  - Customer's with Highest Total Orders
- 
-  - Most purchased product from each category by Customer's
- 
-  - Most purchased product from each sub category by Customer's
- 
-  - Most order placed from different cities by Customer's
- 
-  - Most order placed from different regions by Customer's
- 
-  - Most order placed in different months by Customer's
- 
-  - Most order placed in different years by Customer's
- 
-  - Total Discount on each Product Category
- 
-  - Total Discount on each Sub Product Category
- 
-  - Total Discount in each Region
- 
-  - Total Discount in each City
- 
-  - Total Discount in each Month
- 
-  - Total Discount in each Year
- 
-  - Customer's with most Discount
- 
-  - Sale of Different Category Products Year Wise
- 
-  - Sale of Different Category Products Month Wise
- 
-  - Sale of Different Category Products Region Wise
- 
-  - Profit from Different Category Products Year Wise
- 
-  - Profit from Different Category Products Month Wise
- 
-  - Profit from Different Category Products Region Wise
- 
-  - Percent of Total Revenue spend on Discounts
+  - No. of Products sold each Year, Month and Date etc.
  
 - Data Visualization
 
