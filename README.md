@@ -258,5 +258,4 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 
 [Supermarket Sales Analysis](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
 
-| [Scroll to Top ⬆️](#supermarket-sales-analysis) |
-|:---:|
+**[`^        Scroll to Top       ^`](#supermarket-sales-analysis)**
