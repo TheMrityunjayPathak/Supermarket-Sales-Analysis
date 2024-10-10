@@ -41,7 +41,6 @@ The dataset includes various columns that provide detailed information about eac
 - [Getting started with Repository](#getting-started)
 - [Steps involved in the Project](#steps-involved-in-the-project)
 - [Conclusion](#conclusion)
-- [Link to the Notebook](#link-to-the-notebook)
 
 ## Setting up the Enviroment
 
@@ -254,8 +253,8 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 
 - This analysis has provided a detailed understanding of various factors influencing supermarket performance.
 
-## Link to the Notebook
-
-[Supermarket Sales Analysis](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
-
+<div align='right'>
+  
 **[`^        Scroll to Top       ^`](#supermarket-sales-analysis)**
+
+</div>
