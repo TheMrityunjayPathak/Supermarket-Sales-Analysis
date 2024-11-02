@@ -32,7 +32,7 @@ The dataset includes various columns that provide detailed information about eac
 
 - This analysis will provide a deeper understanding of supermarket sales dynamics revealing trends and patterns that can inform inventory management, promotional strategies and regional marketing efforts.
 
-![supermarket](https://github.com/user-attachments/assets/fa04ac7a-0f60-4d41-8626-52d511616635)
+<a href='https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis'><img src='https://github.com/user-attachments/assets/fa04ac7a-0f60-4d41-8626-52d511616635'></a>
 
 ## Table of Contents
 
