@@ -60,44 +60,44 @@ jupyter notebook
 
 **Pandas**
 
-- Go to Terminal and run this Code
+- Go to the terminal and run this code
 ```
 pip install pandas
 ```
 
-- Go to Jupyter Notebook and run this Code from a Cell
+- Go to Jupyter Notebook and run this code from a cell
 ```
 !pip install pandas
 ```
 
 **Matplotlib**
 
-- Go to Terminal and run this Code
+- Go to the terminal and run this code
 ```
 pip install matplotlib
 ```
 
-- Go to Jupyter Notebook and run this Code from a Cell
+- Go to Jupyter Notebook and run this code from a cell
 ```
 !pip install matplotlib
 ```
 
 **Seaborn**
 
-- Go to Terminal and run this Code
+- Go to the terminal and run this code
 ```
 pip install seaborn
 ```
 
-- Go to Jupyter Notebook and run this Code from a Cell
+- Go to Jupyter Notebook and run this code from a cell
 ```
 !pip install seaborn
 ```
 
 ## Getting Started
 
-- Clone the repository to your local machine using the following command :
-```
+- Clone this repository to your local machine by using the following command :
+```bash
 git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 ```
 
@@ -105,145 +105,145 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 
 **Importing Libraries**
 
-  - Importing Pandas, Matplotlib and Seaborn Libraries
+  - Importing pandas, matplotlib and seaborn libraries
  
 **Reading CSV File**
 
-  - Reading CSV File by using pd.read_csv() function
+  - Reading csv file by using pd.read_csv() function
  
 **Overview of the Dataset**
 
-  - Information about shape and size of the Dataset
+  - Information about shape and size of the dataset
 
-  - Columns present in the Dataset
+  - Columns present in the dataset
 
-  - Info about the Dataset
+  - Info about the dataset
 
 **Handling Null values in the Dataset**
 
-  - This dataset does not contain any Null Values
+  - This dataset does not contain any null values
  
 **Unique values in Each Categorical Column**
 
-  - Unique values in Customer Name Column
+  - Unique values in customer name column
  
-  - Unique values in Category Column
+  - Unique values in category column
  
-  - Unique values in Sub Category Column
+  - Unique values in sub category column
  
-  - Unique values in City Column
+  - Unique values in city column
  
-  - Unique values in Region Column
+  - Unique values in region column
  
 **Changing DataType of Columns**
 
-  - Modifying the DataType of OrderDate column to Pandas DateTime Format
+  - Modifying the datatype of order date column to pandas datetime format
 
 **Utilizing existing information to create new Columns**
 
-  - Extracting Year, Month and Dates from OrderDate Column
+  - Extracting year, month and dates from order date column
  
-  - Extracting Discount Amount from Discount Percent by using Mathematical Formulas
+  - Extracting discount amount from discount percent by using mathematical formulas
  
 **Statistical Analysis**
 
-  - No. of Products sold in each Category
+  - No. of products sold in each category
     
-  - No. of Products sold in each Sub Category
+  - No. of products sold in each sub category
  
-  - No. of Products sold in each City
+  - No. of products sold in each city
  
-  - No. of Products sold in each Region
+  - No. of products sold in each region
  
-  - No. of Products sold each Year, Month and Date etc.
+  - No. of products sold each year, month and date etc.
  
 **Data Visualization**
 
-  - No. of Products sold in each Category
+  - No. of products sold in each category
   
 ![download](https://github.com/user-attachments/assets/201f08b8-b5c0-44db-bd8a-d9eb8f82a76e)
 
-  - No. of Products sold in each Sub Category
+  - No. of products sold in each sub category
   
 ![download](https://github.com/user-attachments/assets/47c85913-0d7c-4bed-961a-62c4846497b3)
 
-  - No. of Products sold in each City
+  - No. of products sold in each city
   
 ![download](https://github.com/user-attachments/assets/0971cebf-5d67-42d6-886d-1aa4cafcd353)
 
-  - No. of Products sold in each Region
+  - No. of products sold in each region
   
 ![download](https://github.com/user-attachments/assets/f4e9ad6c-f9c5-427a-8162-4f027224690e)
 
-  - No. of Products sold each Year
+  - No. of products sold each year
 
 ![download](https://github.com/user-attachments/assets/390b92f8-503b-4385-bb75-c58f18db810e)
 
-  - No. of Products sold each Month
+  - No. of products sold each month
     
 ![download](https://github.com/user-attachments/assets/17c52c47-ab03-406e-967e-94555f553a9e)
 
-  - No. of Products sold each Date
+  - No. of products sold each date
 
 ![download](https://github.com/user-attachments/assets/f5349f07-3b08-4133-8b4e-f5d3b5d4483f)
 
-  - Total sales in each Category
+  - Total sales in each category
 
 ![download](https://github.com/user-attachments/assets/a891f53a-093a-41d6-b09f-d27a38691ea8)
 
-  - Total sales in each Sub Category
+  - Total sales in each sub category
 
 ![download](https://github.com/user-attachments/assets/1a07ab89-3373-44ca-8810-34fc97638766)
 
-  - Total sales in each Region
+  - Total sales in each region
 
 ![download](https://github.com/user-attachments/assets/cd927051-d2db-400c-8d5e-804476163c22)
 
-  - Total sales in each City
+  - Total sales in each city
   
 ![download](https://github.com/user-attachments/assets/0bbcafa6-6734-4a84-ac77-d40a108f8b26)
 
-  - Total sales in each Month
+  - Total sales in each month
 
 ![download](https://github.com/user-attachments/assets/0156845d-6dc3-4bb4-9a82-7ac5b1d510ba)
 
-  - Total sales in each Year
+  - Total sales in each year
 
 ![download](https://github.com/user-attachments/assets/844c3c16-9020-4215-b716-7552e05f67fa)
 
-  - Total profit in each Category
+  - Total profit in each category
 
 ![download](https://github.com/user-attachments/assets/57f1bb11-cba0-4075-b76b-8ff7e5bbbfe4)
 
-  - Total profit in each Sub Category
+  - Total profit in each sub category
   
 ![download](https://github.com/user-attachments/assets/70364c48-a0ca-4785-a8db-1b3f2b0845f6)
 
-  - Total profit in each Region
+  - Total profit in each region
 
 ![download](https://github.com/user-attachments/assets/db64f973-16a0-477e-bff5-626182944a5f)
 
-  - Total profit in each City
+  - Total profit in each city
 
 ![download](https://github.com/user-attachments/assets/f3b3794a-3a88-4ef4-8024-830d8ecaacd3)
 
-  - Total profit in each Month
+  - Total profit in each month
   
 ![download](https://github.com/user-attachments/assets/d8925469-ae66-4967-aa43-813a5a8e0015)
 
-  - Total profit in each Year
+  - Total profit in each year
 
 ![download](https://github.com/user-attachments/assets/5f063f3d-a5d0-4c25-967f-613bb00cecd9)
 
-  - Customers with Highest Amount of Total Sales
+  - Customers with highest amount of total sales
 
 ![download](https://github.com/user-attachments/assets/05921566-eadf-4add-9e80-4e1f0fea47a2)
 
-  - Customers with Highest Profit on their Purchase
+  - Customers with highest profit on their purchase
 
 ![download](https://github.com/user-attachments/assets/723fe0a9-420b-4ec7-83c3-52438cb4029a)
 
-  - Total Discount availed by Customers
+  - Total discount availed by customers
 
 ![download](https://github.com/user-attachments/assets/8dba0aa8-bcb0-420d-8b34-06f59f1f5480)
 
@@ -253,7 +253,7 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 
 - This analysis has provided a detailed understanding of various factors influencing supermarket performance.
 
-<div align='right'>
+<div align='left'>
   
 **[`^        Scroll to Top       ^`](#supermarket-sales-analysis)**
 
