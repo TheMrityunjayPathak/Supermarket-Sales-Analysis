@@ -58,16 +58,18 @@ jupyter notebook
 
 ## Libraries required for the Project
 
+**NumPy**
+
+- Go to the terminal and run this code
+```
+pip install numpy
+```
+
 **Pandas**
 
 - Go to the terminal and run this code
 ```
 pip install pandas
-```
-
-- Go to Jupyter Notebook and run this code from a cell
-```
-!pip install pandas
 ```
 
 **Matplotlib**
@@ -77,21 +79,11 @@ pip install pandas
 pip install matplotlib
 ```
 
-- Go to Jupyter Notebook and run this code from a cell
-```
-!pip install matplotlib
-```
-
 **Seaborn**
 
 - Go to the terminal and run this code
 ```
 pip install seaborn
-```
-
-- Go to Jupyter Notebook and run this code from a cell
-```
-!pip install seaborn
 ```
 
 ## Getting Started
@@ -249,9 +241,17 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 
 ## Conclusion
 
-- The Exploratory Data Analysis (EDA) of the Supermarket Sales Dataset has provided a comprehensive understanding of the sales dynamics, customer behaviors and regional performance of the supermarket chain.
+Here are some key findings about the analysis :
 
-- This analysis has provided a detailed understanding of various factors influencing supermarket performance.
+- Analyzed purchasing pattern of 9000+ Customers of Supermarket.
+
+- More than 15% of the products sold were Snacks.
+
+- More than 32% of the sales were occurred in West Region of the Supermarket.
+
+- Health Drinks and Soft Drinks are the most profitable category in Beverages.
+
+- November was the most profitable month contributing about 15% of the Total Annual Profits.
 
 <div align='left'>
   
