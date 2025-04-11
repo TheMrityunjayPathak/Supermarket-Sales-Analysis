@@ -1,8 +1,12 @@
 ## Supermarket Sales Analysis
 
-Grocery Stores are a vital part of everyday life, providing us with the food and essentials as we need. People often uses grocery delivery applications to order their products, making it easy to shop from home.
+Grocery Stores are a vital part of everyday life, providing us with the food and essentials as we need.
 
-Each transaction made through these applications is recorded in detail creating a valuable dataset. This project looks at a same data of a supermarket transactions to understand how well it is performing.
+People often uses grocery delivery applications to order their products, making it easy to shop from home.
+
+Each transaction made through these applications is recorded in detail creating a valuable dataset.
+
+This project looks at a same data of a supermarket transactions to understand how well it is performing.
 
 ## Dataset
 
@@ -109,7 +113,7 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
  
   - Types of column present in the dataset (numerical, categorical, text).
  
-  - Detailed Info about the dataset using df.info() method.
+  - Detailed info about the dataset using df.info() method.
 
 **Handling Null values in the Dataset**
 
@@ -129,13 +133,13 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
  
 **Changing DataType of Columns**
 
-  - Modifying the datatype of order-date column to pandas datetime format.
+  - Modifying the datatype of order_date column to pandas datetime format.
 
 **Utilizing existing information to create new Columns**
 
-  - Extracting year, month and dates from order-date column.
+  - Extracting year, month and dates from order_date column.
  
-  - Extracting discount-amount from discount percent column by using mathematical formulas.
+  - Extracting discount_amount from discount percent column by using mathematical formulas.
  
 **Statistical Analysis**
 
