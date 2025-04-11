@@ -18,7 +18,7 @@ The dataset includes various columns that provide detailed information about eac
 
 ## Problem Statement
 
-- To gain insights into Supermarket Sales Performance, identifying key factors influencing customer purchasing behavior and product performance.
+- To analyze supermarket sales data, identifying key factors for improving profitability and operational efficiency.
 
 - This Exploratory Data Analysis (EDA) aims to address the following key questions :
 
