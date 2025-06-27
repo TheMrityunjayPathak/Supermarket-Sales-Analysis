@@ -247,15 +247,19 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 
 Here are some key findings about the analysis :
 
-- Analyzed purchasing pattern of 9000+ customers of supermarket.
-
-- More than 15% of the products sold were snacks.
-
-- More than 32% of the sales were occurred in west region of the supermarket.
-
-- Health and Soft drinks are the most profitable category in beverages.
-
+- Analyzed purchasing pattern of 9000+ customers of Supermarket.
+  
+- More than 15% of the products sold were Snacks.
+  - Shows that Snacks are a convenient choice and a big source of revenue.
+    
+- More than 32% of the sales were occurred in West region of Supermarket.
+  - Suggests that West region is a strong performing area as compared to others.
+    
+- Health and Soft drinks are the most profitable category in Beverages.
+  - Shows that both type of drinks option sells well.
+    
 - November was the most profitable month contributing about 15% of the total annual profits.
+  - Makes it an ideal time for running promotions and special offers.
 
 <div align='left'>
   
