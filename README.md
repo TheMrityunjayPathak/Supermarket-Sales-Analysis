@@ -18,7 +18,7 @@ The dataset includes various columns that provide detailed information about eac
 
 ## Problem Statement
 
-- To analyze supermarket sales data, identifying key factors for improving profitability and operational efficiency.
+- To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
 
 ## Table of Contents
 
