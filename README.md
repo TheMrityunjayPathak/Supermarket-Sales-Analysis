@@ -1,13 +1,13 @@
 ## Supermarket Sales Analysis
-- Grocery Stores are a vital part of everyday life, providing us with the food and essentials as we need.
+- Grocery Stores are a vital part of everyday life, providing us with food and essentials as we need.
 - People often uses grocery delivery applications to order their products, making it easy to shop from home.
-- Each transaction made through these applications is recorded in detail creating a valuable dataset.
+- Each transaction made through these applications are recorded in detail, creating a valuable dataset.
 - This project looks at a same data of a supermarket transactions to understand how well it is performing.
 
 <hr>
 
 ## Dataset
-- The dataset is sourced from Kaggle which simulates grocery sales activities within Tamil Nadu state of India.
+- The dataset is sourced from Kaggle which simulates grocery sales within Tamil Nadu state of India.
 - The dataset includes columns that provide detailed information about each transaction at the Supermarket.
 - **Link to the Dataset :** [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)
 
