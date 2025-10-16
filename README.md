@@ -1,8 +1,8 @@
 ## Supermarket Sales Analysis
-- Grocery Stores are a vital part of everyday life, providing us with food and essentials as we need.
-- People often uses grocery delivery applications to order their products, making it easy to shop from home.
+- Grocery Stores are a vital part of everyday life, providing us with foods and essentials as we need.
+- People often uses grocery delivery applications to order products, making it easy to shop from home.
 - Each transaction made through these applications are recorded in detail, creating a valuable dataset.
-- This project looks at a same data of a supermarket transactions to understand how well it is performing.
+- This project looks at a same data of a supermarket transactions to understand how well it's performing.
 
 <hr>
 
