@@ -8,7 +8,7 @@
 
 ## Dataset
 - The dataset is sourced from Kaggle which simulates grocery sales activities within Tamil Nadu state of India.
-- The dataset includes various columns that provide detailed information about each transaction at the Supermarket.
+- The dataset includes columns that provide detailed information about each transaction at the Supermarket.
 - **Link to the Dataset :** [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)
 
 <hr>
